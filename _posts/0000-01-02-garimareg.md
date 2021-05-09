@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-commit message
+change file
 Use the left arrow to go back!
